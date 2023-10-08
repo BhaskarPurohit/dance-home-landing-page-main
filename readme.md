@@ -4,7 +4,7 @@ This is a project for **"Freelance"**, built using **HTML5 and CSS3**.
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://dance-home-page-014.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://65228a2eac0ed7218850d1a9--relaxed-syrniki-d7548a.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
