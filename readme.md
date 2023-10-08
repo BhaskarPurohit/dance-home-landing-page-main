@@ -35,7 +35,7 @@ This is a project for **"Freelance"**, built using **HTML5 and CSS3**.
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Prakash Naikwadi](https://www.linkedin.com/in/bhaskar-purohit-64895217b/)
+- **LinkedIn** - [Bhaskar Purohit](https://www.linkedin.com/in/bhaskar-purohit-64895217b/)
 - **Twitter** - [Bhaskar Purohit](https://twitter.com/BhaskarP57559)
 
 ## 📌 Acknowledgments
